@@ -12,3 +12,7 @@ int sum(int a,int b){
 int fun(){
     cout << "hello" << endl;
 }
+
+int divide(int a,int b){
+    cout << a/b << endl;
+}
