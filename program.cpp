@@ -8,3 +8,7 @@ int main()
 int sum(int a,int b){
     cout << a+b << endl;
 }
+
+int fun(){
+    cout << "hello" << endl;
+}
